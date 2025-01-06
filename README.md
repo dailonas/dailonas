@@ -25,24 +25,5 @@ Speak = French and English, I continue to improve myself.
  C / C++        ███████░░░░░░░░░░░░░░░░░░░   15.0% 
 ```
 
-#### Tool information
-```md
- Programming languages:
-- Python (In training)
-- C / C++  (In training)
-- HTML / CSS (basic level)
-- JavaScript (I continue to learn)
-- Assembly  (I continue to learn)
-
- Editors:
-- VS Code
-- Visual Studio 2022
-- CodeBlocks
-- MikroC PRO for PIC
-
- Operating System: 
-- Windows 10 (I prefer Windows 10 for now)
-- Linux (Kalix, Debian) I use them on virtual machines.
-```
 
 
