@@ -2,8 +2,8 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dailonas&theme=transparent)">
 <p align="right"> 
-- 🪄 I’m currently working on more projects including Python(🐍) and Shell(🐚). I'm also learning PHP(🖬) programming language.
-- ♥️ I love programming a lot in Python(🐍) and Shell(🐚), and I'm looking forward to collaborate.
+- 🪄 I am currently working on projects, notably in Python (🐍) and assembler (🐚). I am also learning to use certain modules and microcontrollers (🖬).
+- ♥️  I really like programming in Python(🐍) and C(🐚), and I look forward to collaborating.
 </p>
 
 #
