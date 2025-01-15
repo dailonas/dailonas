@@ -28,7 +28,7 @@ student in electronic and computer systems
 ### @link: https://guns.lol/dailonas 
 
 ```md
-Username = dailonas or daimyo 
+Username = dailonas  
 Age = 20 years.
 Country = Ivory Coast.
 Speak = French and English.
