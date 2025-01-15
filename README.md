@@ -30,6 +30,6 @@ student in electronic and computer systems
 ```md
 Username = dailonas or daimyo 
 Age = 20 years.
-Country = Ivory Coast, Located in West Africa.
-Speak = French and English, I continue to improve myself.
+Country = Ivory Coast.
+Speak = French and English.
 ```
