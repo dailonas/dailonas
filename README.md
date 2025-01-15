@@ -9,10 +9,10 @@
 #
 <p align="center">
   <a href="https://github.com/dailonas"  target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Author-Atul-cyan" alt="Author">
+    <img align="center" src="https://img.shields.io/badge/Author-dailonas-cyan" alt="Author">
   </a><br>
-  <a href="https://github.com/A-Unix?tab=repositories"  target="_blank">
-    <img align="center" src="https://img.shields.io/badge/GitHub_Repo-A--Unix-yellow" alt="GitHub Repo">
+  <a href="https://github.com/dailonas?tab=repositories"  target="_blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub_Repo-dailonas-yellow" alt="GitHub Repo">
   </a><br>
 </p>
 
