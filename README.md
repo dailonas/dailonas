@@ -25,8 +25,6 @@ student in electronic and computer systems
 <br/> <b>Willing to collaborate on projects</b> !
 </p>
 
-### @link: https://guns.lol/dailonas 
-
 ```md
 Username = dailonas  
 Age = 20 years.
