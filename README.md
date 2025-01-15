@@ -1,7 +1,10 @@
 # Hi there, Github.
- 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dailonas&theme=transparent)">
+<p align="right"> 
 - 🪄 I’m currently working on more projects including Python(🐍) and Shell(🐚). I'm also learning PHP(🖬) programming language.
-- ♥️ I love programming a lot in Python(🐍) and Shell(🐚), and I'm looking forward to collaborate.<br>
+- ♥️ I love programming a lot in Python(🐍) and Shell(🐚), and I'm looking forward to collaborate.
+</p>
 
 #
 <p align="center">
@@ -16,7 +19,6 @@
 #
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dailonas&show_icons=true&theme=transparent">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dailonas&theme=transparent)">
 <p align="right">
 Computer enthusiast in training,
 student in electronic and computer systems
