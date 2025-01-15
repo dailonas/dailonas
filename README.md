@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dailonas&theme=transparent)">
 <p align="right"> 
-- 🪄 I am currently working on projects, notably in Python (🐍) and assembler (🐚). I am also learning to use certain modules and microcontrollers (🖬).
+- I am currently working on projects, notably in Python (🐍) and assembly (⌨). I am also learning to use certain modules and microcontrollers (🖬).
 - ♥️  I really like programming in Python(🐍) and C(🐚), and I look forward to collaborating.
 </p>
 
